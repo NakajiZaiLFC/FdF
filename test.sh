@@ -1,0 +1,1 @@
+cc main.c -L/usr/local/lib -lmlx -L/usr/lib -lXext -lX11 -lm -lz -o fdf
